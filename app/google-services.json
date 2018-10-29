@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "805483220766",
+    "firebase_url": "https://lotrpi-c6dd7.firebaseio.com",
+    "project_id": "lotrpi-c6dd7",
+    "storage_bucket": "lotrpi-c6dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805483220766:android:4e018b1dd3bbe61a",
+        "android_client_info": {
+          "package_name": "com.example.asus.lotrpie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805483220766-b9c1q161a243v3nhh5r617q9p8o0bi63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.lotrpie",
+            "certificate_hash": "400a8eba9d7b138250669820749d32f67dcec98c"
+          }
+        },
+        {
+          "client_id": "805483220766-vfepp5u90ek5ic0ojunj4vsbf77i0p36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpWfzjgVSpPEyeBb1lklD38t3n9tT23iU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805483220766-vfepp5u90ek5ic0ojunj4vsbf77i0p36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
